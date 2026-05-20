@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="peripheral_project" location="C:/HOME/pynq_z2_files/zperiph_1/vitiswsp/peripheral_project" platform="C:/HOME/pynq_z2_files/zperiph_1/vitiswsp/peripheral_platform/export/peripheral_platform/peripheral_platform.xpfm" platformUID="xilinx:pynq-z2::0.0(custom)" systemProject="peripheral_project_system" sysConfig="peripheral_platform" runtime="C/C++" cpu="standalone_domain" cpuInstance="ps7_cortexa9_0" os="standalone" mssSignature="8ae9907e228235611e7210a454b88e63">
+  <configuration name="Debug" id="xilinx.gnu.armv7.exe.debug.1701551444">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.armv7.exe.release.1814685837" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="hello_world"/>
+</sdkproject:SdkProject>
