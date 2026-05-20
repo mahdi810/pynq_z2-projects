@@ -1,0 +1,56 @@
+# =====================
+# Vivado Generated Files
+# =====================
+*.bit
+*.bin
+*.mcs
+*.ltx
+*.xsa
+*.xpr.bak
+*.log
+*.jou
+
+# Vivado project directories
+*.cache/
+*.runs/
+*.sim/
+*.ip_user_files/
+*.gen/
+*.hbs/
+*.srcs/impl*/
+*.srcs/synth*/
+
+# Vivado backup files
+*.backup.jou
+*.backup.log
+
+# =====================
+# Vitis Generated Files
+# =====================
+*.elf
+*.elf.size
+*.map
+*.lst
+*.d
+
+# Vitis build directories
+Debug/
+Release/
+*/Debug/
+*/Release/
+
+# BSP generated files
+*/bsplib/
+*/bspinclude/
+*_bsp/
+
+# =====================
+# General
+# =====================
+*.o
+*.a
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
