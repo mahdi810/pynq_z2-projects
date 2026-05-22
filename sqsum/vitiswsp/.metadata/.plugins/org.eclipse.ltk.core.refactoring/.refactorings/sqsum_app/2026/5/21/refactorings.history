@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;sqsum_app/src/helloworld.c&apos; to &apos;sqsum_app.c&apos;" description="Rename resource &apos;helloworld.c&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/helloworld.c" name="sqsum_app.c" stamp="1779363532570" updateReferences="true"/>
+</session>
